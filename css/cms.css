@@ -1,0 +1,25 @@
+.container {
+    margin-top: 40px;
+    width: 1160px;
+}
+
+#projects-panel {
+    margin-top: 35px;
+}
+
+#add-btn {
+    float: right;
+}
+
+#projNum {
+    display: inline;
+}
+
+.btn-edit {
+    margin-right: 25px;
+}
+
+.disabled-project {
+    background-color: #af5654 !important;
+    text-decoration: line-through;
+}
